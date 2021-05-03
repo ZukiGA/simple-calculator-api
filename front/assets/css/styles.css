@@ -1,0 +1,16 @@
+.btn.btn-primary {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.form-control-plaintext {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+html {
+  font-size: 1vw;
+}
+
